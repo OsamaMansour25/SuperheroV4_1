@@ -1,3 +1,8 @@
+package com.example.superherov4_1.Controllers;
+
+import com.example.superherov4_1.DTO.SuperPowerDTO;
+import com.example.superherov4_1.Model.SuperheroModel;
+import com.example.superherov4_1.SuperheroInterface.ISuperHeroRepository;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.ApplicationContext;
 import org.springframework.http.HttpStatus;

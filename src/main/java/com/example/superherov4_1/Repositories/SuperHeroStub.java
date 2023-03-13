@@ -1,7 +1,8 @@
-package Repositories;
+package com.example.superherov4_1.Repositories;
 
+import com.example.superherov4_1.SuperheroInterface.ISuperHeroRepository;
 import org.springframework.stereotype.Repository;
-import com.example.superherov4_1.
+import com.example.superherov4_1.Model.SuperheroModel;
 
 import java.util.ArrayList;
 import java.util.List;

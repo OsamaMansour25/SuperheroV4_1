@@ -1,4 +1,4 @@
-package DTO;
+package com.example.superherov4_1.DTO;
 public class SuperPowerDTO {
     int count;
     String heroName;
